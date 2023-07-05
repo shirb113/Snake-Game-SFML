@@ -1,5 +1,8 @@
 # Snake-Game-SFML
 
+2D Snake Game
+A simple game created using C++ and SFML
+
 <img width="642" alt="1" src="https://github.com/shirb113/Snake-Game-SFML/assets/44223065/3d116597-673c-4edb-a065-64a9a559406f">
 
 <img width="642" alt="2" src="https://github.com/shirb113/Snake-Game-SFML/assets/44223065/73d658ed-8456-4408-b413-2ce9d53078a3">
