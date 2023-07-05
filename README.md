@@ -14,13 +14,13 @@
 <img width="642" alt="4" src="https://github.com/shirb113/Snake-Game-SFML/assets/44223065/b20dda07-e8c7-4181-b4eb-90515c56c9ac">
 
 ### This game has multiple states
-Main Menu State - Displays main menu
-Game Play State - The actual game play
-Pause Game State - Pause screen
-Game Over State - Displays game over screen
+* Main Menu State - Displays main menu
+* Game Play State - The actual game play
+* Pause Game State - Pause screen
+* Game Over State - Displays game over screen
 ### Features
-Snake can be controlled with arrow keys
-Snake automatically advances
-Food gets randomly placed
-Snake can eat food to grow in length
-Each food increase player score by 1 point
+* Snake can be controlled with arrow keys
+* Snake automatically advances
+* Food gets randomly placed
+* Snake can eat food to grow in length
+* Each food increase player score by 1 point
